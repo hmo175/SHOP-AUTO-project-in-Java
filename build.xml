@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\University ( it e )\University ( it e ) 2\البرمجة\مشروع نهائي\SHOP AUTO\dist\SHOP_AUTO.jar</jar>
+  <outfile>C:\Users\m3581\OneDrive\Desktop\car.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\m3581\OneDrive\Documents\66Y.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.0.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
